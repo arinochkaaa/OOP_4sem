@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<ArrayOfDiscipline xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Discipline>
+    <Name>ооп</Name>
+    <Semester>2</Semester>
+    <Course>
+      <string>2-ой курс</string>
+    </Course>
+    <Speciality>
+      <string>ПОИТ</string>
+    </Speciality>
+    <NumberOfLections>36</NumberOfLections>
+    <NumberOfLabs>36</NumberOfLabs>
+    <Control>Экзамен</Control>
+    <lector>
+      <Department>Программной инженерии</Department>
+      <Name>А,Н,Мущук</Name>
+      <Auditorium>226-1</Auditorium>
+    </lector>
+  </Discipline>
+  <Discipline>
+    <Name>Риат</Name>
+    <Semester>2</Semester>
+    <Course>
+      <string>2-ой курс</string>
+    </Course>
+    <Speciality>
+      <string>ИСИТ</string>
+    </Speciality>
+    <NumberOfLections>36</NumberOfLections>
+    <NumberOfLabs>36</NumberOfLabs>
+    <Control>Экзамен</Control>
+    <lector>
+      <Department>Программной инженерии</Department>
+      <Name>А,А,Иванов</Name>
+      <Auditorium>226-1</Auditorium>
+    </lector>
+  </Discipline>
+</ArrayOfDiscipline>
